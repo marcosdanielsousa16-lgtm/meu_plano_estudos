@@ -1,0 +1,12 @@
+{
+  "name": "Guitar Study Pro",
+  "short_name": "Guitar Study",
+  "description": "Organize e acompanhe seus estudos de guitarra",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0c12",
+  "theme_color": "#11111b",
+  "lang": "pt-BR",
+  "icons": []
+}
